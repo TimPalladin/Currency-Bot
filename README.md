@@ -17,6 +17,9 @@
 git clone https://github.com/TimPalladin/project-name.git
 cd project-name
 
+# Установка токена
+В config.py в ковычках вместо 'Ваш тг токен' вставить свой токен из Bot Father телеграм.
+
 # Установка зависимостей
 pip install -r requirements.txt
 
